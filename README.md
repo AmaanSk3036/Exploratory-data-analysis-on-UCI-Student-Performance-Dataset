@@ -1,0 +1,2 @@
+# Exploratory-data-analysis-on-UCI-Student-Performance-Dataset
+This project presents an exploratory data analysis of the UCI Student Performance dataset. The objective is to understand the structure and quality of data and investigate factors that may be associated with students’ final mathematics grades. The analysis focuses on demographic, educational, family, behavioral, attendance, and academic variables.
